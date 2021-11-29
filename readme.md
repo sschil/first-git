@@ -14,4 +14,4 @@ Created First Web Api
 dotnet new webapi -n first-webapi
 ```
 
-Edit is going to create an Angular UI:
+Create angular UI
